@@ -31,13 +31,6 @@ A instalação do pacote **IRIS** pode ser feita diretamente via **pip**:
 ```sh
 pip install open-iris
 ```
-
-Ou, para instalação diretamente do GitHub:
-
-```sh
-IRIS_ENV=SERVER pip install git+https://github.com/worldcoin/open-iris.git
-```
-
 **Opções de instalação:**
 - **SERVER** – Para uso em máquinas locais.
 - **ORB** – Para execução em dispositivos Orb.
