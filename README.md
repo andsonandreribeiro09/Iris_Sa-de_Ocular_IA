@@ -1,7 +1,7 @@
 # IRIS: 🔍 Inteligência Artificial e Leitura da Íris: O Futuro da Biometria? 👁️
 
 ## 📌 Sobre o Projeto
-Bem-vindo ao **IRIS** – o sistema de inferência para reconhecimento de íris do projeto Worldcoin. Este é um pipeline avançado de reconhecimento de íris projetado para autenticação biométrica segura e eficiente. O sistema utiliza técnicas de **visão computacional** e **aprendizado de máquina** de última geração para garantir precisão e escalabilidade no reconhecimento biométrico.
+**IRIS** – O sistema de inferência para reconhecimento de íris do projeto Worldcoin. Este é um pipeline avançado de reconhecimento de íris projetado para autenticação biométrica segura e eficiente. O sistema utiliza técnicas de **visão computacional** e **aprendizado de máquina** de última geração para garantir precisão e escalabilidade no reconhecimento biométrico.
 
 ### 🔍 O que é Reconhecimento de Íris?
 O reconhecimento de íris é uma tecnologia biométrica poderosa que identifica indivíduos com base nos padrões únicos da íris do olho. O pacote **IRIS** visa tornar essa tecnologia acessível e promover avanços na área.
